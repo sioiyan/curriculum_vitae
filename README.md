@@ -46,10 +46,8 @@ Caliban(GraphQL)|2.5年／バックエンド開発に使用しました。GraphQ
 --|--
 RDB|5年／PostgreSQLを利用してきた。複雑なクエリの実装経験あります。DB設計も一応できます。パフォーマンスチューニング等まではやっていません。
 NoSQL|数ヶ月／試験的にGoogle Cloud Datastoreを利用したが、複雑なWHERE句を書きたいモチベーションがあり、RDBに移行した。
-AWS|5ヶ月／直近のプロジェクトで使用。構築は他のエンジニアがやったためあまり詳しくはない。
-利用したサービス: CloudFront, S3, Lambda, Athena
-GCP|5年／過去のプロジェクトで運用経験あり。一時期Professional Arcitect等の資格を取得していた。
-よく使っていたサービス: Cloud Run, Cloud SQL, GKE, GCS, BigQuery, Cloud Armor, Logging, Cloud Composer, Secret Manager, GCE
+AWS|5ヶ月／直近のプロジェクトで使用。構築は他のエンジニアがやったためあまり詳しくはない。<br>経験技術: CloudFront, S3, Lambda, Athena
+GCP|5年／過去のプロジェクトで運用経験あり。一時期Professional Arcitect等の資格を取得していた。<br>経験技術: Cloud Run, Cloud SQL, GKE, GCS, BigQuery, Cloud Armor, Logging, Cloud Composer, Secret Manager, GCE
 Docker|5年／デプロイ用のイメージ作成や開発用のコンテナを利用した。
 Terraform|5年／関わってきたプロジェクトすべてで利用してきた。1から構築はしていないが修正対応はできます。
 kubernetes|1年／GKEのリソース配分の調整等のタスクを行った。1から構築はしていない。
